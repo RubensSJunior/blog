@@ -1,0 +1,31 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Rubens Junior"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "01/01/2006"
+  logo = "img/logo_01_.png"
+  secondaryLogo = "img/logo.jpeg"
+  description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+  name = "Rubens Junior"
+#   email = "youremail@example.com"
+  image = "img/logo.jpeg"
+#   imageQuality = 96
+  headline = "Data Scientist"
+#  bio = "A little bit about you"
+  links = [
+     { email     = "mailto:rubensdossantosjr@gmail.com" },
+     { github    = "https://github.com/RubensSJunior" },
+     { kaggle    = "https://www.kaggle.com/rubenssjr"},
+#    { instagram = "https://instagram.com/username" },
+     { linkedin  = "https://www.linkedin.com/in/rubenssjr" },
+#     { youtube  = "https://youtube.com/username" }
+   ]
